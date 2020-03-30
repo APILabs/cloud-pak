@@ -1,2 +1,1 @@
 source: ibm-dv-caching/ibm_cloud_pak/manifest.yaml
-description: DV Caching Helm chart for Kubernetes

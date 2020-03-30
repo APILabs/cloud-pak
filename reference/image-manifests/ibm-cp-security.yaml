@@ -1,4 +1,5 @@
 # @@ibm-security-solutions@@ #
+# @@ibm-security-solutions@@ #
 source: ibm-cp-security-bundle/case/ibm-cp-security/case.yaml
 description: IBM Cloud Pak for Security
 images:
